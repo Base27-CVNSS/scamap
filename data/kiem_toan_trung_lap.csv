@@ -1,0 +1,17 @@
+group,count,source_ids,names,has_public_source,recommended_id
+mrpips,3,V004; G006; G093,"Mr. Pips (Phó Đức Nam) – sàn giao dịch ngoại hối | Đường dây lừa đảo ngoại hối ""Mr. Pips"" (Phó Đức Nam) | Sàn giao dịch Swissmes.com (Cần Thơ)",True,V004
+antex,3,V005; G005; G014,"Antex – vụ án liên quan Nguyễn Hòa Bình | Vụ án ""Shark Bình"" và dự án Antex Coin | Dự án tiền ảo Antex Coin (giai đoạn đầu)",True,V005
+kayple,2,V006; G004,KAYPLE / KAY – dự án tiền số không có thật | Lừa đảo đầu tư tiền ảo KAYPLE (Đắk Lắk),True,V006
+drk,3,V007; G003; G015,DRK – dự án tiền ảo đa cấp | Đường dây lừa đảo đa cấp tiền ảo DRK | Đường dây tiền ảo 'ma' DRK,True,V007
+onus,2,V008; G022,ONUS / VNDC – hệ sinh thái tiền mã hóa | Sàn tiền ảo ONUS,True,V008
+capel,2,V009; G026,Tập đoàn Capel – hợp đồng góp vốn | Tập đoàn Capel,True,V009
+ftxf,2,V011; G038,FTXF – token huy động vốn / đấu giá ngược | Đường dây lừa đảo tiền ảo FTXF (Trần Nam Trung),True,V011
+brvt60,3,G010; G018; G049,Đường dây lừa đảo đầu tư tài chính BR-VT | Đường dây lừa đảo đầu tư trực tuyến BR-VT (giai đoạn 2) | Đường dây lừa đảo đầu tư trực tuyến BR-VT,False,G010
+bankland,2,G013; G023,Tập đoàn Bankland (Vũ Đức Tĩnh) | Công ty Bankland (Vũ Đức Tĩnh) – mở rộng,False,G013
+cashback,3,G008; G031; G050,Đường dây tiền ảo đa cấp CashBack Pro | Đường dây tiền ảo đa cấp CashBack Pro (giai đoạn 1) | CashBack Pro – giai đoạn mở rộng,False,G008
+tosi,2,G017; G046,Dự án tiền ảo TOSI | Dự án tiền ảo TOSI (mở rộng),False,G017
+verbo,3,G007; G043; G094,Sàn giao dịch ngoại hối Verbo Capital (Bắc Ninh) | Sàn giao dịch ngoại hối Verbo Capital (Bắc Ninh) | Sàn giao dịch ngoại hối Verbo Capital (giai đoạn 2),False,G007
+invest1000,2,G016; G027,"Sàn giao dịch tài chính đa cấp trên mạng xã hội | Sàn giao dịch tài chính đa cấp (Vũ Đức Đạt, Trần Văn Thành)",False,G016
+jpx,2,G021; G055,Đường dây lừa đảo xuyên quốc gia Mai Văn Tới (Thanh Hóa) | Đường dây lừa đảo đầu tư tiền ảo qua sàn JPX (Thanh Hóa),False,G021
+huynhthanhluan,2,G041; G048,Huỳnh Thành Luân (Cần Thơ) | Vụ án Huỳnh Thành Luân (Cần Thơ) – giai đoạn 1,False,G041
+tham_2022,2,G042; G057,Đường dây lừa đảo công nghệ cao từ Tam giác Vàng (Lào) | Đường dây lừa đảo công nghệ cao từ Tam giác Vàng (Lào),False,G042
